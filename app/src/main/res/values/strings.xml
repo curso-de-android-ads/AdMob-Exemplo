@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AdMobExemplo</string>
+
+    <string name="hello_world">Exemplo de uso AdMob!</string>
+    <string name="action_settings">Settings</string>
+    <string name="banner_exemplo_ad_unit_id">ca-app-pub-5866949865395351/2989319228</string>
+</resources>
